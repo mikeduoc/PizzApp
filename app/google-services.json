@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596812224599",
+    "project_id": "prostoreapp-4bab4",
+    "storage_bucket": "prostoreapp-4bab4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596812224599:android:83e1c24ed2c218959beb12",
+        "android_client_info": {
+          "package_name": "com.example.pizzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97ETZG3OmGjzVLzBlBS-GIPzXQRMbFCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
